@@ -3,7 +3,10 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
+    <title>Kredim var mı? Hızlı ve Güvenilir Kredi Başvuru Merkezi</title>
+    <meta name="description" content="Finansal ihtiyaçlarınız için hızlı ve güvenilir kredi başvuru merkezi. En uygun faiz oranları ve esnek ödeme seçenekleri ile hayallerinize bir adım daha yaklaşın.">
+    <meta name="keywords" content="kredi, kredi başvuru, finans, faiz oranları, kredi seçenekleri">
+    <meta name="robots" content="index, follow">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
           integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
