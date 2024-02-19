@@ -29,7 +29,7 @@ class NotifyCustomer extends Mailable
     public function envelope(): Envelope
     {
         return new Envelope(
-            subject: 'Yeni Müşteri',
+            subject: 'Yeni Müşteri - '.$this->customer->name,
         );
     }
 
